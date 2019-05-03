@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ns1:KREDITOR_XML xmlns:ns1="urn:xyz.com:CAFM:KREDITOR">
+	<KREDITOR>
+		<LIFNR>0000701156</LIFNR>
+		<NAME1>FSL Ladenbau GmbH</NAME1>
+		<NAME2>Schröder</NAME2>
+		<STRASSE>Hansacker 15</STRASSE>
+		<ADRESSE>DE 26655 Westerstede</ADRESSE>
+	</KREDITOR>
+	<KREDITOR>
+		<LIFNR>0000701652</LIFNR>
+		<NAME1>Minimax Mobile Services GmbH</NAME1>
+		<NAME2>&amp; Co. KG</NAME2>
+		<STRASSE>Minimaxstraße 1</STRASSE>
+		<ADRESSE>DE 72574 Bad Urach</ADRESSE>
+	</KREDITOR>
+	<KREDITOR>
+		<LIFNR>0000702655</LIFNR>
+		<NAME1>Landbell AG</NAME1>
+		<STRASSE>Rheinstr. 4L</STRASSE>
+		<ADRESSE>DE 55116 Mainz</ADRESSE>
+	</KREDITOR>
+	<KREDITOR>
+		<LIFNR>0000710094</LIFNR>
+		<NAME1>Pfirter Bodenbeläge AG</NAME1>
+		<STRASSE>Schmiedestrasse 1</STRASSE>
+		<ADRESSE>CH 4133 Pratteln</ADRESSE>
+	</KREDITOR>
+</ns1:KREDITOR_XML>
